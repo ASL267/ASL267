@@ -12,5 +12,6 @@ Javascript, HTML, CSS, C#,
 
 ## My Contact
 
+```
 Discord: StereoCat#0001
-email springhie@gmail.com
+Email:springhie@gmail.com```
