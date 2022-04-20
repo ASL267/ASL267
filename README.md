@@ -14,4 +14,4 @@ Javascript, HTML, CSS, C#,
 
 ```
 Discord: StereoCat#0001
-Email:springhie@gmail.com```
+Email:springhie@gmail.com
