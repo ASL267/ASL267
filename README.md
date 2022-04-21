@@ -14,7 +14,7 @@ Javascript, HTML, CSS, C#,
 
 ## My Stats 📊
 [![Sophie/StereoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=springhie)](https://github.com/anuraghazra/github-readme-stats)
-[![My top language's](https://github-readme-stats.vercel.app/api/top-langs/?username=springhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)e-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ```
