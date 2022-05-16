@@ -9,8 +9,9 @@ I'm HORRIBLE at Coding in C#/JS
 
 ## Socials
 
-Discord: ASL#0001
-VRC:StereoCat
+# Discord: ASL#0001
+# VRC: StereoCat
+
 ## 🛠 Skills
 Javascript, HTML, CSS, C#,
 
