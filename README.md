@@ -3,8 +3,11 @@
 
 
 ## About Me
-I'm a upcoming Full Stack Developer & Software Developer
-
+I'm a furfag/Tranny
+All I do is code random shit 
+I'm HORRIBLE at Coding in C#/JS
+Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
+Discord: StereoCat#0001
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C#,
