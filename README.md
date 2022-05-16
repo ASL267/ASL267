@@ -14,8 +14,7 @@ I'm HORRIBLE at Coding in C#/JS
 Javascript, HTML, CSS, C#,
 
 
-## My Media Accounts
-Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
+
 
 ## My Stats 📊
 [![Sophie/StereoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASL267)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,6 +22,7 @@ Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
 
 ## Socials/Media
 ```
+Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
 Discord: ASL#0001
 VRC: StereoCat
 Email:springhie@gmail.com
