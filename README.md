@@ -1,5 +1,5 @@
 
-# Hi, I'm Sophie/StereoCat! 👋
+# Hi, I'm Sophie/StereoCat (ASL)! 👋
 
 
 ## About Me
@@ -8,6 +8,7 @@ All I do is code random shit
 I'm HORRIBLE at Coding in C#/JS
 Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
 Discord: ASL#0001
+VRC:StereoCat
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C#,
