@@ -23,6 +23,6 @@ Javascript, HTML, CSS, C#,
 ## Socials/Media
 ```
 Youtube:https://www.youtube.com/channel/UCUctQ2GXjw2jgSbF71kwaTQ
-Discord: ASL#0001
+Discord: StereoCat#0001
 VRC: StereoCat
 Email:springhie@gmail.com
