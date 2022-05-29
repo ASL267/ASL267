@@ -17,8 +17,8 @@ Javascript, HTML, CSS, C#,
 
 
 ## My Stats 📊
-[![Sophie/StereoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASL267)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASL267&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Sophie/StereoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stereokomediorey)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stereokomediorey&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials/Media
 ```
